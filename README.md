@@ -1,4 +1,4 @@
-# lol-datastes
+# lol-datasets
 Google Drive Folder: https://drive.google.com/open?id=1whMkqq3hQ9AfkDJjIYzlqK8PYcxGHoX-
 
 Name format: `{platform}_{seasonId}_{gameMode}_{queue}_{patch}_{size}.7z`
